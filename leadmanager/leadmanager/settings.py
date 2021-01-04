@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     # our apps
     'leads',
     'rest_framework',
+    'frontend',
 ]
 
 MIDDLEWARE = [
